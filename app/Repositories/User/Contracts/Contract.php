@@ -1,7 +1,7 @@
 <?php
 namespace App\Repositories\User\Contracts;
 
-use App\Models\User;
+use App\Models\User\User;
 
 interface Contract
 {

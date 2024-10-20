@@ -2,7 +2,7 @@
 
 namespace App\Repositories\User;
 
-use App\Models\User;
+use App\Models\User\User;
 use App\Repositories\User\Contracts\Contract;
 
 class UserRepository implements Contract
